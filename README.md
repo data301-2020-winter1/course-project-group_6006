@@ -25,7 +25,7 @@ Personally I do not drink alcohol that much but it is very interesting to see wh
 ## Team Members
 
 - Stephanie: I am a math major and eat too much ice cream
-- Isaac: I love playing badminton and I eat too much in general. 
+# *Isaac*: I **love** playing badminton and I eat too much in general. 
 - Aneleise: I like plants and I eat a lot of plants too.
 
 ## References
