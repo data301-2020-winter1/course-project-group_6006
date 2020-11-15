@@ -1,0 +1,1 @@
+**Note:** This group member dropped the course.
