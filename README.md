@@ -26,6 +26,10 @@ Personally I do not drink alcohol that much but it is very interesting to see wh
 # *Isaac*: I **love** playing badminton and I eat too much in general. 
 - Aneleise: I like plants and I eat a lot of plants too.
 
+## Milestone 4
+
+Link for screencast explaining our dashboard: https://drive.google.com/file/d/1WKVDWsNd9ck3WtkDWUW_dRtE4RsgEWQj/view?usp=sharing
+
 ## References
 
 
